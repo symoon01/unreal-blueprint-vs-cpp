@@ -22,6 +22,14 @@ Repozytorium składa się z 6 niezależnych folderów, z których każdy zawiera
 
 ---
 
+## Sterowanie (Scena 2)
+Podczas uruchomienia **sceny 2** dostępne są dedykowane skróty klawiszowe umożliwiające testowanie i&nbsp;porównywanie działania skryptów:
+
+* **`B`** – Zmienia aktywny kontroler z&nbsp;C++ na Blueprint i&nbsp;odwrotnie.
+* **`N`** – Włącza lub wyłącza działanie kontrolerów.
+
+---
+
 ### Instrukcja uruchomienia:
 
 1. **Pobranie i wypakowanie repozytorium**.
